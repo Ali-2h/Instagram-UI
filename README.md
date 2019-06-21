@@ -1,6 +1,6 @@
 # instagram
 
-A new Flutter project.
+Instagram Ui With Google Flutter
 
 ## Getting Started
 
